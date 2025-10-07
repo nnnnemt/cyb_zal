@@ -1,5 +1,8 @@
+
 .venv/
 venv/
+ENV/
+env/
 __pycache__/
-*.pyc
-.idea/
+*.py[cod]
+*$py.class

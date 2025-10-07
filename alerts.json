@@ -1,18 +1,1 @@
-[
-  {
-    "user": "ahahaha",
-    "text": "Eksplozja w centrum! Lokalizacja: https://www.openstreetmap.org/?mlat=50.06143&mlon=19.93658",
-    "score": 4,
-    "sentiment": "Neutralne",
-    "links": [
-      "https://www.openstreetmap.org/?mlat=50.06143&mlon=19.93658"
-    ],
-    "cities": [],
-    "iocs": [
-      "www.openstreetmap.org"
-    ],
-    "timestamp": "2025-10-07T14:25:41.801701",
-    "suspicious": true,
-    "owner": "hestll"
-  }
-]
+[]

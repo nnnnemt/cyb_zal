@@ -1,13 +1,15 @@
 {
   "hestll": {
     "password": "b4eae21f775701f5af3d3e7ed307d9bec26bc1941657fe7d45a20f90469a462e",
-    "watchlist": [],
-    "telegram_token": "",
-    "chat_id": "",
-    "x_api": "444",
+    "watchlist": [
+      "from encodings.hex_codec import hex_encode"
+    ],
     "keywords": [
       "a"
-    ]
+    ],
+    "x_api": "444",
+    "telegram_token": "",
+    "chat_id": ""
   },
   "test2": {
     "password": "60303ae22b998861bce3b28f33eec1be758a213c86c93c076dbe9f558c11c752",
