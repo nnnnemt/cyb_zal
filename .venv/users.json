@@ -1,0 +1,24 @@
+{
+  "hestll": {
+    "password": "b4eae21f775701f5af3d3e7ed307d9bec26bc1941657fe7d45a20f90469a462e",
+    "watchlist": [],
+    "telegram_token": "",
+    "chat_id": "",
+    "x_api": "444",
+    "keywords": [
+      "a"
+    ]
+  },
+  "test2": {
+    "password": "60303ae22b998861bce3b28f33eec1be758a213c86c93c076dbe9f558c11c752",
+    "watchlist": [],
+    "keywords": [
+      "wojna",
+      "Putin",
+      "Ukraina"
+    ],
+    "x_api": "",
+    "telegram_token": "",
+    "chat_id": ""
+  }
+}
